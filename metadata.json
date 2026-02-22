@@ -1,0 +1,5 @@
+{
+  "name": "DriveShare - Location de Voitures",
+  "description": "Application mobile de location de voitures (Classique & Marketplace) avec gestion client et propriétaire.",
+  "requestFramePermissions": []
+}
